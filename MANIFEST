@@ -1,0 +1,12 @@
+#$Id: MANIFEST 2465 2009-03-20 05:13:46Z dk $
+#$URL: svn://svn/dmytro/Development/perl/modules/Log-Simplest/tags/VERSION-1.0/MANIFEST $
+#$Author: dk $
+
+README
+Changes
+Makefile.PL
+MANIFEST               - this file
+t/Log-Simplest.t       - test script. Executed from 'make test'
+lib/Log/Simplest.pm    - module itself
+examples/example.pl    - simple examples of module use
+examples/simplest.pl
