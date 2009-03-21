@@ -1,13 +1,14 @@
 #!/usr/bin/perl
-# $Id: simplest.pl 2461 2009-03-20 05:05:25Z dk $
+# $Id: simplest.pl 2467 2009-03-21 02:17:15Z dk $
 # $Author: dk $
-# $Date: 2009-03-20 14:05:25 +0900 (Fri, 20 Mar 2009) $
-# $URL: svn://svn/dmytro/Development/perl/modules/Log-Simplest/tags/VERSION-1.0/examples/simplest.pl $
+# $Date: 2009-03-21 11:17:15 +0900 (Sat, 21 Mar 2009) $
+# $URL: svn://svn/dmytro/Development/perl/modules/Log-Simplest/trunk/examples/simplest.pl $
 
 # This is example script for Log::Simplest module.
 
 
 use Log::Simplest;
+exit;
 
 
 __END__
@@ -16,9 +17,6 @@ Running this script should produce output similar to:
 
 09/03/18 13:34:26:  *** example *** starting *** 
 09/03/18 13:34:26: Log file: /tmp/example.090318:13:34:26.9941.log
-09/03/18 13:34:26: This is normal log message
-09/03/18 13:34:26: FATAL ERROR: After printing this I will die
-FATAL : After printing this I will die at Log/Simplest.pm line 157.
 09/03/18 13:34:26:  ***  Closing file /tmp/example.090318:13:34:26.9941.log *** 
 09/03/18 13:34:26:  *** example *** Completed *** 
 

@@ -1,8 +1,5 @@
-$Id: README 2461 2009-03-20 05:05:25Z dk $
-$URL: svn://svn/dmytro/Development/perl/modules/Log-Simplest/tags/VERSION-1.0/README $
-
 Log/Simpleast version 1.0
-=====================
+=========================
 
 See Pod for documentation or 
  perldoc Log::Simplest

@@ -1,7 +1,7 @@
 use 5.008000;
 use ExtUtils::MakeMaker;
 # $Id: Makefile.PL 2461 2009-03-20 05:05:25Z dk $
-# $URL: svn://svn/dmytro/Development/perl/modules/Log-Simplest/tags/VERSION-1.0/Makefile.PL $
+# $URL: svn://svn/dmytro/Development/perl/modules/Log-Simplest/trunk/Makefile.PL $
 # See lib/ExtUtils/MakeMaker.pm for details of how to influence
 # the contents of the Makefile that is written.
 WriteMakefile(

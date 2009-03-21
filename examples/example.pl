@@ -2,7 +2,7 @@
 # $Id: example.pl 2461 2009-03-20 05:05:25Z dk $
 # $Author: dk $
 # $Date: 2009-03-20 14:05:25 +0900 (Fri, 20 Mar 2009) $
-# $URL: svn://svn/dmytro/Development/perl/modules/Log-Simplest/tags/VERSION-1.0/examples/example.pl $
+# $URL: svn://svn/dmytro/Development/perl/modules/Log-Simplest/trunk/examples/example.pl $
 
 # This is example script for Log::Simplest module.
 

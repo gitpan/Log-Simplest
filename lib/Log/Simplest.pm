@@ -1,4 +1,4 @@
-# $Id: Simplest.pm 2461 2009-03-20 05:05:25Z dk $
+# $Id: Simplest.pm 2468 2009-03-21 02:25:35Z dk $
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -22,10 +22,10 @@ $VERSION = "1.0";
 
 # Dmytro Kovalov. 2004-2009
 # $Author: dk $
-# $Date: 2009-03-20 14:05:25 +0900 (Fri, 20 Mar 2009) $
-# $URL: svn://svn/dmytro/Development/perl/modules/Log-Simplest/tags/VERSION-1.0/lib/Log/Simplest.pm $
+# $Date: 2009-03-21 11:25:35 +0900 (Sat, 21 Mar 2009) $
+# $URL: svn://svn/dmytro/Development/perl/modules/Log-Simplest/trunk/lib/Log/Simplest.pm $
 
-=head1 PACKAGE
+=head1 NAME
 
 Log::Simplest - Simple log module. Writes log messages to file and/or STDERR. 
 
